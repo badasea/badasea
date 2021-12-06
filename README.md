@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **badasea/badasea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### ⚙ Technology stack
+
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Cloud Foundry-0C9ED5?style=flat-square&logo=Cloud Foundry&logoColor=white"/>
+
+
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/> <img src="https://img.shields.io/badge/C/C++-0056D2?style=flat-square&logo=Coursera&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
+
+ <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+
+![trophy](https://github-profile-trophy.vercel.app/?username=badasea)
+
+![badasea's github stats](https://github-readme-stats.vercel.app/api?username=badasea&show_icons=true)
+[![badasea's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=badasea&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/badasea)
