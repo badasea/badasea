@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=badasea)
+<!-- ![trophy](https://github-profile-trophy.vercel.app/?username=badasea)
 
 ![badasea's github stats](https://github-readme-stats.vercel.app/api?username=badasea&show_icons=true)
-[![badasea's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=badasea&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/badasea)
+[![badasea's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=badasea&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/badasea) -->
