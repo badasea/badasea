@@ -36,14 +36,10 @@ Here are some ideas to get you started:
 [![badasea's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=badasea&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/badasea) -->
 
 
-
-
-
-
  <div align="center">
  
  ### 🌊🌊 BADASEA 🌊🌊
-<br />
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/badasea) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/notion.svg' alt='notion' height='40'>](https://fish-baritone-f02.notion.site/Bada_Sea-456d423f1f8143e9842147803d600199) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vimeo.svg' alt='github' height='40'>](https://velog.io/@badasea)
 
@@ -53,8 +49,11 @@ Here are some ideas to get you started:
   
 
 
-
+<div align="left">
+ 
 ## My Main Skill 
+ 
+</div>
 <table><tr><td valign="top" width="33%">
 
 ### Frontend  
@@ -96,7 +95,11 @@ Here are some ideas to get you started:
 </td></tr></table>  
  
 
-## My Other Skill
+<div align="left">
+ 
+## My Other Skill 
+ 
+</div>
 <table><tr><td valign="top" width="33%">
 
 ### Language 
