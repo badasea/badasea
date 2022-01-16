@@ -97,7 +97,7 @@ Here are some ideas to get you started:
 
 <div align="left">
  
-## My Other Skill 
+## My Sub Skill 
  
 </div>
 <table><tr><td valign="top" width="33%">
