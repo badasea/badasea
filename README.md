@@ -51,7 +51,8 @@ Here are some ideas to get you started:
 
 <div align="left">
  
-## My Main Skill 
+<!-- ## My Main Skill  -->
+ ## My Skill 
  
 </div>
 <table><tr><td valign="top" width="33%">
@@ -61,8 +62,8 @@ Here are some ideas to get you started:
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
+<!-- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />   -->
+<!-- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />   -->
  
 </div>  
 
@@ -94,7 +95,7 @@ Here are some ideas to get you started:
 
 </td></tr></table>  
  
-
+<!-- 
 <div align="left">
  
 ## My Sub Skill 
@@ -134,10 +135,9 @@ Here are some ideas to get you started:
 
 ### DevOps  
 <div align="center">  
-<!-- <<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />   -->
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" />  
 </div>
-
+ -->
 </td></tr></table>  
 
 <br />
