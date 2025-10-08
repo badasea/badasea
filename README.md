@@ -1,150 +1,61 @@
-<!--
-**badasea/badasea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  
+  <h1>🌊 Welcome to BADA's Profile! 🌊</h1>
+  
+  <p>끊임없이 배우고 성장하는 것을 즐기는 개발자입니다.</p>
+  
+  <a href="https://github.com/badasea" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://velog.io/@badasea" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=vimeo&logoColor=white"></a>
+  <a href="https://fish-baritone-f02.notion.site/Bada_Sea-456d423f1f8143e9842147803d600199" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"></a>
+  
+</div>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👋 About Me
+- 🔭 현재 **[프론트엔드 개발자]** 로 있습니다.
+- 🤔 **[새로운 기술이나 협업]** 에 대해 함께 이야기하고 싶습니다.
+- 📫 How to reach me: **[jungbada269@naver.com]**
 
-<!-- ### ⚙ Skills
+<br>
 
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Cloud Foundry-0C9ED5?style=flat-square&logo=Cloud Foundry&logoColor=white"/>
+### 🛠️ Tech Stack
 
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript(ES6)-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/> <img src="https://img.shields.io/badge/C/C++-0056D2?style=flat-square&logo=Coursera&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
+#### Frontend
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=black">
+  </p>
 
- <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/>
- 
- <div align="center">
- 
- ### 🌊🌊 BADASEA 🌊🌊
- 
- <a href="https://velog.io/@badasea" target="_blank"><img src="https://img.shields.io/badge/Velog-34E0A1?style=flat&logo=Vimeo&logoColor=white"/></a> <a href="https://fish-baritone-f02.notion.site/Bada_Sea-456d423f1f8143e9842147803d600199" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/></a>
- 
+#### Backend
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+</p>
 
- </div> -->
+#### DevOps
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/SVN-809CC9?style=for-the-badge&logo=subversion&logoColor=white">
+</p>
 
-<!-- ![trophy](https://github-profile-trophy.vercel.app/?username=badasea)
+<br>
 
-![badasea's github stats](https://github-readme-stats.vercel.app/api?username=badasea&show_icons=true)
-[![badasea's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=badasea&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/badasea) -->
-
-
- <div align="center">
- 
- ### 🌊🌊 BADASEA 🌊🌊
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/badasea) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/notion.svg' alt='notion' height='40'>](https://fish-baritone-f02.notion.site/Bada_Sea-456d423f1f8143e9842147803d600199) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vimeo.svg' alt='github' height='40'>](https://velog.io/@badasea)
-
+### 📊 GitHub Stats
 
 <div align="center">
-</div>  
   
-
-
-<div align="left">
- 
-<!-- ## My Main Skill  -->
- ## My Skill 
- 
-</div>
-<table><tr><td valign="top" width="33%">
-
-### Frontend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
-<!-- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" />   -->
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
-<!--  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />   -->
-
-<!-- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />   -->
-<!-- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />   -->
- 
-</div>  
-
-<div align="center">  
-  
-</div>  
-
-<div align="center">  
-  
-</div>
-
-</td><td valign="top" width="33%">
-
-### Backend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="50" />
+[![badasea's GitHub stats](https://github-readme-stats.vercel.app/api?username=badasea&show_icons=true&theme=radical)](https://github.com/badasea)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=badasea&layout=compact&theme=radical)](https://github.com/badasea)
 
 </div>
 
-</td><td valign="top" width="33%">
+<br>
 
-### DevOps
-<div align="center">   
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
-<p>Svn</p>
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="50" />
-<!-- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />   -->
-
-</div>
-
-</td></tr></table>  
- 
-<!-- 
-<div align="left">
- 
-## My Sub Skill 
- 
-</div>
-<table><tr><td valign="top" width="33%">
-
-### Language 
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/swift-original-wordmark.svg" alt="Swift" height="50" />  
-</div>  
-
-<div align="center">  
-  
-</div>  
-
-<div align="center">  
-  
-</div>
-
-</td><td valign="top" width="33%">
-
-### Backend  
 <div align="center">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />  
+
+
 </div>
-
-</td><td valign="top" width="33%">
-
-### DevOps  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" />  
-</div>
- -->
-</td></tr></table>  
-
-<br />
